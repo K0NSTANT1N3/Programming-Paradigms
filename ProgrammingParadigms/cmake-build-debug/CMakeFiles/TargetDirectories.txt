@@ -1,0 +1,3 @@
+/home/konstantine/CLionProjects/ProgrammingParadigms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/konstantine/CLionProjects/ProgrammingParadigms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/konstantine/CLionProjects/ProgrammingParadigms/cmake-build-debug/CMakeFiles/ProgrammingParadigms.dir
